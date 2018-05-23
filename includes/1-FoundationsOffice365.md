@@ -243,10 +243,17 @@ SharePoint is a platform for building collaboration and publication sites suited
 - [SharePoint Best Patterns and Practices sample code](https://github.com/SharePoint/PnP)
 
 ### Teams apps ###
+Teams is a team collaboration tool combining audioconferencing, chat, files and more in a single tool.
+
 - [Apps for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/apps/apps-overview)
 
+### Graph API ###
+Graph API is a unified API providing simple access to a user's objects in Office 365, including OneDrive files, calendar, connections and more.
+- [Graph API Overview](https://developer.microsoft.com/en-us/graph/docs/concepts/overview)
+- [Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer) 
+
 ### Office 365 APIs ###
+Office 365 has extensive APIs to cover each service in the platform beyond the information offered in the Graph API.
 - [Overview of Office 365 file handlers](https://msdn.microsoft.com/en-us/office/office365/howto/using-cross-suite-apps)
 - [Create file handlers in Office 365](https://msdn.microsoft.com/en-us/office/office365/howto/create-file-handler-extensions)
 
-### Graph APIs ###

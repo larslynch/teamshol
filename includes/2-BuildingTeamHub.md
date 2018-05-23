@@ -231,15 +231,13 @@ import data_3 from "./assets/eggplant_data.json";
 
 import MenuItem from './MenuItem';   
 
-
 class MenuContainer extends Component {
       render(props) {
           return (
             <div className="MenuContainer">
                 <header className="App-header">
-                <h1 className="App-title">Today's menu</h1>
-            </header>
-                
+                <h1 className="App-title">Today´s menu</h1>
+            </header>                
             <MenuItem data_url={data_1} image_url={image_1}/>
             <MenuItem data_url={data_2} image_url={image_2}/>
             <MenuItem data_url={data_3} image_url={image_3}/>
@@ -402,7 +400,7 @@ class MenuContainer extends Component {
           return (
             <div className="MenuContainer">
                 <header className="App-header">
-                <h1 className="App-title">Hi {this.state.userName}, here is today's menu</h1>  
+                <h1 className="App-title">Hi {this.state.userName}, here is today´s menu</h1>  
             </header>
                 
             <MenuItem data_url={data_1} image_url={image_1}/>

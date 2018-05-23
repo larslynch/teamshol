@@ -194,36 +194,44 @@ Power BI delivers rich interactive visualizations of data. Users can quickly bui
 
 
 ### Yammer ###
+Yammer is an enterprise communication service designed to facilitate conversations and knowledge sharing between groups.  Yammer can be extended with apps that access the content and groups based in Yammer.
+
+#### Further information ####
 - [Build Your First App](https://developer.yammer.com/docs) 
 
 
 ###  Office Add-ins ###
+Office Add-ins are embedded HTML panes that render in all Office versions (web, desktop and mobile).  These panes can interact with the content being edited in the Office application as well as external services.
+
 - [JavaScript API for Office](https://dev.office.com/reference/add-ins/javascript-api-for-office)
 
-### Outlook ###
+#### Outlook Add-ins ####
 - [Outlook add-ins overview]( https://docs.microsoft.com/en-us/outlook/add-ins/)
 - [Build your first Outlook add-in](https://docs.microsoft.com/en-us/outlook/add-ins/quick-start?tabs=visual-studio)
 	
-### Excel ###
+#### Excel Add-ins ####
 - [Excel add-ins overview](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-overview)
 - [Build an Excel add-in using React](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-get-started-react)
 	
-### Word ###
+#### Word Add-ins ####
 - [Word add-ins overview](https://docs.microsoft.com/en-us/office/dev/add-ins/word/word-add-ins-programming-overview)
 - [Build your first Word add-in](https://docs.microsoft.com/en-us/office/dev/add-ins/word/word-add-ins?tabs=visual-studio)
 
-### PowerPoint ###
+#### PowerPoint Add-ins ####
 - [PowerPoint add-ins](https://docs.microsoft.com/en-us/office/dev/add-ins/powerpoint/powerpoint-add-ins)
 - [Build your first PowerPoint add-in](https://docs.microsoft.com/en-us/office/dev/add-ins/powerpoint/powerpoint-add-ins-get-started?tabs=visual-studio)
 
-### OneNote ###
+#### OneNote Add-ins ####
 - [Build your first OneNote add-in](https://docs.microsoft.com/en-us/office/dev/add-ins/onenote/onenote-add-ins-getting-started)
 
-### Project ###
+#### Project Add-ins ####
 - [Task pane add-ins for Project](https://docs.microsoft.com/en-us/office/dev/add-ins/project/project-add-ins)
 - [Build your first Project add-in](https://docs.microsoft.com/en-us/office/dev/add-ins/project/project-add-ins-get-started)
 	
 ### SharePoint Framework ###
+SharePoint is a platform for building collaboration and publication sites suited to many corporate needs.  SharePoint is very easy to customize and has a large developer community.
+
+#### Further information ####
 - [Overview of the SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
 - [Overview of SharePoint client-side web parts](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts)
 - [Build your first SharePoint client-side web part](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part)
@@ -232,6 +240,7 @@ Power BI delivers rich interactive visualizations of data. Users can quickly bui
 - [SharePoint Add-ins](https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/sharepoint-add-ins)
 - [Get started creating provider-hosted SharePoint Add-ins](https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)
 - [SharePoint Framework (SPFx) enterprise guidance](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/enterprise-guidance)
+- [SharePoint Best Patterns and Practices sample code](https://github.com/SharePoint/PnP)
 
 ### Teams apps ###
 - [Apps for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/apps/apps-overview)

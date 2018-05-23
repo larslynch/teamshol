@@ -52,6 +52,8 @@ In addition to the built-in components, Teams has several ways to incorporate ex
 
 ![Configure tenant for Teams](../media/configure-tenant-teams.png)
 
+### Steps ###
+
 > **Note:** this tutorial is run from a web browser but the desktop experience is nearly identical.
 
 1. Browse to https://teams.microsoft.com and login with your Office 365 account.
@@ -153,21 +155,30 @@ Microsoft Graph is a central API in Office 365 that provides unified access to u
 # Canvases across Office 365 #
 
 ### Marketplace ###
+Office 365 and Azure offer thousands of apps and turn-key solutions built by Microsoft and software developers in the AppSource marketplace.  Developer can monetize their own apps once the product has been reviewed and approved by Microsoft.
+
 [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?src=office&page=1&product=office)
 
 ### PowerApps ###
-Canvas apps in PowerApps are built without the need to code, using drag-and-drop tools with actions.
+Canvas apps in PowerApps are built without the need to code, using drag-and-drop tools and prebuilt templates to create a multi-platform (web, desktop and mobile) application.  PowerApps can be used for everything from a simple vacation request form with validation to a multi-faceted audit tool for field technicians.
 
-PowerApps can be integrated into many systems including:
+PowerApps can be integrated with many systems utilizing [Connectors](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/connections-list):
 - Teams
 - SharePoint Online
 - Dynamics 365
-- Stand-alone
+- On-premise SQL Server
 
+Custom connectors can be built to integrate PowerApps with any system: [Custom connectors in PowerApps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/register-custom-api)
+
+#### Further information ####
 - [Overview of creating apps in PowerApps](https://docs.microsoft.com/en-us/powerapps/maker/index)
 - [Create an app from a PowerApps template](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/get-started-test-drive)
 
 ###  Flow & Logic Apps ###
+Microsoft Flow and Azure Logic Apps are cloud-based integration workflow engines that have an easy to use web UI. Utilizing the same Connectors as PowerApps, these workflows can integrate with any service in Office 365 and Azure, as well as hundreds of third-party services.
+> **Note**: Flow is targeted at business users creating self-service workflows while Logic Apps is meant for developers and integrators.
+
+#### Further information ####
 - [Get started with Microsoft Flow](https://docs.microsoft.com/en-us/flow/getting-started)
 - [Create a flow in Microsoft Flow](https://docs.microsoft.com/en-us/flow/get-started-logic-flow)
 - [What is Azure Logic Apps?](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
@@ -175,6 +186,9 @@ PowerApps can be integrated into many systems including:
 - [Compare Flow, Logic Apps, Functions, and WebJobs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs)
 
 ### Power BI ###
+Power BI delivers rich interactive visualizations of data. Users can quickly build executive dashboards and slice data. Power BI has a growing library of ready-made visuals and developers can built further custom visuals if needed.
+
+#### Further information ####
 - [What can developers do with Power BI?](https://docs.microsoft.com/en-us/power-bi/developer/what-can-you-do)
 - [Use developer tools to create custom visuals](https://docs.microsoft.com/en-us/power-bi/service-custom-visuals-getting-started-with-developer-tools)
 
